@@ -1,0 +1,12 @@
+---
+title: "Project Homepage"
+format: 
+  html:
+    embed-resources: true
+---
+
+Hi, welcome to our project!
+
+Here is our analysis page: <https://abramdixon.github.io/newrepo343/analysis/myanalysis.html>
+
+Here is google: <https://www.google.com>
